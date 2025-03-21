@@ -33,4 +33,5 @@ Em junho de 2018, a Microsoft anunciou a aquisição do GitHub por US$ 7,5 bilh�
 Bibliografia:
 
 https://github.com/digitalinnovationone/dio-lab-open-source/issues/31516
+
 https://www.hostinger.com.br/tutoriais/o-que-github
