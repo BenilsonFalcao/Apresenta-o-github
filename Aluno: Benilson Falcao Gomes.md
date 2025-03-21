@@ -10,7 +10,8 @@ Professor: Ricardo Marciano
 
 O Que é o GITHUB: O GitHub é considerado é uma ferramenta essencial para engenheiros de software, com uma popularidade sem igual. Atualmente, ele acomoda mais de 25 milhões de usuários. Isso significa que há um número considerável de profissionais que estão procurando o GitHub para melhorar o fluxo de trabalho e a colaboração. Em suma, o GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/b5ba68cd-302f-48e4-9e40-1220f56c4195)
+
 
 História do GitHub:O GitHub foi fundado em 2008 por Tom Preston-Werner, Chris Wanstrath e PJ Hyett. Ele começou como uma plataforma de hospedagem de código baseada em Git, permitindo que desenvolvedores colaborassem em projetos de software, rastreassem mudanças e gerenciassem o código-fonte de forma eficiente. Ao longo dos anos, o GitHub cresceu rapidamente em popularidade, tornando-se a maior e mais influente plataforma de hospedagem de código do mundo. Milhões de desenvolvedores e empresas passaram a usar o GitHub para colaborar em projetos de software de código aberto e privado.
 
